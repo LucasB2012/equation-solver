@@ -12,5 +12,5 @@ quadratic equation solver
 ```bash
 python equation_solver.py
 ```
-##future improvements
+## future improvements
 cubic equation solver
