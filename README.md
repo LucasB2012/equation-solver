@@ -10,7 +10,7 @@ quadratic equation solver
 3. Run:
 
 ```bash
-python equation_solver.py
+equation_solver.py
 ```
 ## future improvements
 cubic equation solver
