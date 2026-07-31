@@ -2,6 +2,7 @@
 A python program that solves equations.
 ## features
 linear equation solver
+
 quadratic equation solver
 ## How to Run
 
